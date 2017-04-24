@@ -35,6 +35,6 @@ public class AppTest
     {
 /** assertTrue( true );
   */
-    assertTrue( false );
+    assertTrue( true );
     }
 }
