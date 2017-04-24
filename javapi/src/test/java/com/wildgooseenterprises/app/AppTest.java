@@ -35,6 +35,6 @@ public class AppTest
     {
 /** assertTrue( true );
   */
-        assertEquals( testApp.String, ("Hello World!") );
+    assertTrue( false );
     }
 }
